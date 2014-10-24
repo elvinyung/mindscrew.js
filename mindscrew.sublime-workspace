@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"fun",
+				"function"
+			],
+			[
 				"routep",
 				"routeParamTypes"
 			],
@@ -284,6 +288,22 @@
 			"settings":
 			{
 				"buffer_size": 20,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mindscrew.js",
+			"settings":
+			{
+				"buffer_size": 1792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/eyung/OS/Dropbox/Dropbox/Resume/2015s/elvin_yung_resume_thick_margins.tex",
+			"settings":
+			{
+				"buffer_size": 21815,
 				"line_ending": "Unix"
 			}
 		}
@@ -599,7 +619,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -622,6 +642,65 @@
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mindscrew.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1304,
+								1304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/media/eyung/OS/Dropbox/Dropbox/Resume/2015s/elvin_yung_resume_thick_margins.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19749,
+								19749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
