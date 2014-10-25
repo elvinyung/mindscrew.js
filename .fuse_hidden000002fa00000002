@@ -49,3 +49,6 @@
     var out = '';
   }
 })();
+
+function(f){return ((function(x){return f(x(x));})(function(x){return f(x(x));}));}
+function(f){return ((function(x){return f(x(x));})(function(x){return f(x(x));}));}
