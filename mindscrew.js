@@ -39,11 +39,9 @@
       state.loop.push('');
     },
     ']': function(state){
-      state.
       state.data[state.ptr] ? {/* go to loop start*/} : {/* noop */}
     }
-
-  }
+  };
 
   var interpretBF = function(BFsrc) {
     var out = '';
